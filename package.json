@@ -1,0 +1,24 @@
+{
+  "name": "Abstract-Hall",
+  "version": "1.0.0",
+  "description": "restore everything about abstraction...",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KkkkYL/Abstract-Hall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KkkkYL/Abstract-Hall/issues"
+  },
+  "homepage": "https://github.com/KkkkYL/Abstract-Hall#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0"
+  }
+}
