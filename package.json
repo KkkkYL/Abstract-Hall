@@ -17,8 +17,5 @@
     "url": "https://github.com/KkkkYL/Abstract-Hall/issues"
   },
   "homepage": "https://github.com/KkkkYL/Abstract-Hall#readme",
-  "devDependencies": {
-    "@commitlint/cli": "^17.7.1",
-    "@commitlint/config-conventional": "^17.7.0"
-  }
+  "devDependencies": {}
 }
